@@ -6,3 +6,7 @@ public class JavaPlayground {
         System.out.println("Hello, java");
     }
 }
+
+class Person {
+    public static final int N_EYES = 2;
+}
